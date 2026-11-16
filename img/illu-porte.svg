@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Porte d’entrée en bois">
+<circle cx="200" cy="150" r="132" fill="#EADFCB"/>
+<rect x="120" y="22" width="160" height="250" rx="4" fill="#F5EEE3"/>
+<rect x="132" y="34" width="136" height="238" rx="3" fill="#B97A45"/>
+<rect x="132" y="34" width="136" height="10" fill="#A86A38"/>
+<rect x="148" y="56" width="104" height="80" rx="4" fill="#A86A38"/><rect x="154" y="62" width="92" height="68" rx="3" fill="#C48A55"/>
+<rect x="148" y="154" width="104" height="96" rx="4" fill="#A86A38"/><rect x="154" y="160" width="92" height="84" rx="3" fill="#C48A55"/>
+<path d="M170 72v48M190 68v56M226 72v40M172 172v60M206 168v68" stroke="#B97A45" stroke-width="2" stroke-linecap="round"/>
+<rect x="234" y="140" width="12" height="40" rx="5" fill="#C49A5A"/>
+<rect x="216" y="142" width="30" height="8" rx="4" fill="#D8B57A"/>
+<circle cx="240" cy="172" r="3" fill="#6E5328"/>
+<rect x="108" y="272" width="184" height="12" rx="3" fill="#B8AA92"/>
+<rect x="96" y="284" width="208" height="10" rx="3" fill="#A69880"/>
+<path d="M300 272h34l-5-34h-24z" fill="#9C7740"/>
+<path d="M317 238c-14-10-18-30-10-44 10 8 14 26 10 44zM317 238c10-14 28-20 40-14-8 12-26 18-40 14zM317 238c-2-20 6-38 18-44 4 16-4 34-18 44z" fill="#1E4535"/>
+</svg>

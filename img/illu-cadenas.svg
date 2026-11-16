@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Cadenas et trousseau de clés">
+<circle cx="200" cy="150" r="132" fill="#EADFCB"/>
+<path d="M118 132V98a50 50 0 0 1 100 0v34" fill="none" stroke="#B8BDC0" stroke-width="20"/>
+<path d="M118 132V98a50 50 0 0 1 100 0v34" fill="none" stroke="#D6DADC" stroke-width="6" stroke-dasharray="0 0" opacity="0.700"/>
+<rect x="96" y="128" width="144" height="124" rx="18" fill="#C49A5A"/>
+<rect x="96" y="128" width="144" height="22" rx="11" fill="#D8B57A"/>
+<rect x="96" y="226" width="144" height="26" rx="13" fill="#9C7740"/>
+<circle cx="168" cy="182" r="14" fill="#1E4535"/><path d="M162 190h12l4 26h-20z" fill="#1E4535"/>
+<circle cx="290" cy="146" r="22" fill="none" stroke="#8E9498" stroke-width="6"/>
+<g transform="rotate(28 290 168)"><circle cx="290" cy="188" r="18" fill="#1E4535"/><circle cx="290" cy="184" r="6" fill="#EADFCB"/><rect x="285" y="204" width="10" height="70" rx="2" fill="#B8BDC0"/><path d="M295 238h12v8h-6v8h6v8h-12z" fill="#B8BDC0"/></g>
+<g transform="rotate(-18 296 168)"><circle cx="300" cy="190" r="16" fill="#C49A5A"/><circle cx="300" cy="186" r="5" fill="#EADFCB"/><rect x="295.500" y="204" width="9" height="60" rx="2" fill="#AEB4B8"/><path d="M304 232h10v7h-5v7h5v7h-10z" fill="#AEB4B8"/></g>
+</svg>
