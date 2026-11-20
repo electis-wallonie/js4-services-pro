@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /ancien-site/
 Sitemap: https://electis-wallonie.github.io/js4-services-pro/sitemap.xml
